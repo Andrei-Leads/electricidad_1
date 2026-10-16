@@ -415,6 +415,8 @@ export default defineSiteConfig({
     },
   ],
   marca: { colorPrimario: "#854d0e" },
+  // Plan Básico: Vercel Web Analytics (sin cookies). Activar también Analytics en el proyecto de Vercel.
+  analitica: { vercel: true },
   seo: {
     titulo: "Electricista en Paterna y l'Horta | Llopis Electricistas",
     descripcion:
