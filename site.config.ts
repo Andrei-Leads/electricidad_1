@@ -16,8 +16,8 @@ export default defineSiteConfig({
     tipoSchema: ["Electrician"],
   },
   contacto: {
-    telefono: "+34600000000", // SUSTITUIR por el móvil de Ysst
-    whatsapp: "+34600000000", // SUSTITUIR por el móvil de Ysst
+    telefono: "+34643647915", 
+    whatsapp: "+34643647915", 
     email: "avisos@llopiselectricistas.example",
     direccion: {
       calle: "Calle del Cid Campeador, 9, bajo",
