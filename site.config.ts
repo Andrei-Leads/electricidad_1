@@ -161,7 +161,7 @@ export default defineSiteConfig({
       imagenes: [
         {
           src: "/ejemplo/servicio-recarga.jpg",
-          alt: "Punto de recarga de pared instalado en un garaje comunitario, sin marca visible",
+          alt: "Punto de recarga de pared con el cable recogido, instalado en un garaje comunitario",
         },
       ],
       preguntas: [
@@ -195,7 +195,7 @@ export default defineSiteConfig({
       imagenes: [
         {
           src: "/ejemplo/servicio-averia.jpg",
-          alt: "Mano con linterna frontal revisando un enchufe en un pasillo a oscuras",
+          alt: "Mano con un detector de tensión revisando un enchufe ennegrecido en un pasillo a oscuras, a la luz de una linterna frontal",
         },
       ],
       mensajeWhatsapp: "Hola, tengo una avería eléctrica. Esto es lo que pasa:",
