@@ -421,6 +421,6 @@ export default defineSiteConfig({
     titulo: "Electricista en Paterna y l'Horta | Llopis Electricistas",
     descripcion:
       "Boletín eléctrico, aumento de potencia, puntos de recarga y averías en Paterna y l'Horta. Empresa instaladora autorizada.",
-    url: "https://electricidad-1.vercel.app", // PROVISIONAL: poner la URL real de Vercel tras el primer despliegue
+    url: "https://electricidad-1.vercel.app",
   },
 });
